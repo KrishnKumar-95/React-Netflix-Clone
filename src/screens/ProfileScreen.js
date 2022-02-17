@@ -35,8 +35,3 @@ function ProfileScreen() {
 }
 
 export default ProfileScreen;
-
-// publishable :  pk_test_51KT8hgSEoYHhVqzgblf0TsT6mSU2abwarXGXSYDSsKPK75FI9x9r64YLdFFitIfu6kEGhc2DVlyqbHqtdtZhwImu00KSdFcZ32
-// secret key :  sk_test_51KT8hgSEoYHhVqzglVv1BuTaXWECpXXFbPTRPhVKQeT0UNUFUFd81Fa0I5X0pvOcWsivZiXgxOGlZN2snzyF4PLx00HIRWOgSO
-
-// webhook event : https://us-central1-netflix-clone-react-c96e8.cloudfunctions.net/ext-firestore-stripe-payments-handleWebhookEvents
